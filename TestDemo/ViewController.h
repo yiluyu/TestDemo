@@ -6,9 +6,9 @@
 //  Copyright © 2017 yu. All rights reserved.
 //
 
-#import <UIKit/UIKit.h>
+#import "YLYRootViewController.h"
 
-@interface ViewController : UIViewController
+@interface ViewController : YLYRootViewController
 
 
 @end
