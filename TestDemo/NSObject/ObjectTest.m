@@ -33,7 +33,7 @@
         NSLog(@"member NO");
     }
     
-    NSClassFromString(<#NSString * _Nonnull aClassName#>)
+    
 }
 
 /*
